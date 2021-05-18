@@ -1,7 +1,7 @@
 # Color Game
 
 ## Instructions
-- Follow the link to view the game webpage.
+- Follow the [link](https://asharma8602.github.io/Colour-Game/Colour%20Game/Index.html) to view the game webpage.
 - A random RGB value appears in the heading.
 - Try to select the most the correct color corresponding to the RGB value.
 - If the selected color is correct all the squares show same color.
